@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 174: expected statement.
+    маэда = Character('Маэда', color='#c96b00')
+          ^
+
+File "game/script.rpy", line 175: expected statement.
+    такэда = Character('Такэда', color='#ce9700')
+           ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Wed Jan 18 03:19:31 2023

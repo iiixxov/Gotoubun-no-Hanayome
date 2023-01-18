@@ -439,5 +439,5 @@ label quarrel: # 0:14:30 - 0:20:30
 
     return
 
-label c5: # 0:20:30 - 
+label c5: # 0:20:30 -   
     return
